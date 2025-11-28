@@ -9,7 +9,7 @@ Este proyecto presenta un flujo de trabajo completo de Ciencia de Datos aplicado
 - [Hallazgos del EDA](#-hallazgos-del-eda)
 - [Modelo de Machine Learning](#-modelo-de-machine-learning)
 - [Requisitos y Ejecución](#-requisitos-y-ejecución)
-- [Autor](#-Maria Eugenia Acosta)
+- [Autor](#-Maria-Eugenia-Acosta)
 
 ## 📖 Contexto del Proyecto
 En un mercado competitivo, entender los patrones de compra es vital. Este proyecto busca responder preguntas clave de negocio:
